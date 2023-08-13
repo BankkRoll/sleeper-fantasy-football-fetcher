@@ -1,12 +1,47 @@
 # Sleeper Fantasy Football Data Fetcher
 
-This script is designed to fetch and save Sleeper fantasy football data, including league details, user information, matchups, and more, into JSON files.
+This script is designed to fetch and save Sleeper fantasy football data, providing a comprehensive view of your league's dynamics. Get details like league rules, user profiles, match statistics, player scores, and more, all saved into easily accessible JSON files. Perfect for analysts, fantasy enthusiasts, and developers.
+
+## Featured Information
+- **League Details**: Configuration, settings, and teams.
+- **User Profiles**: Usernames, display names, and avatars.
+- **Matchups**: Weekly matchups, win/loss records, and scores.
+- **Player Scores**: Player performance data including points, projections, and more.
+- **Additional Data**: Rosters, transactions, waivers, etc.
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
+- [Data Overview](#data-overview)
 - [Contribution](#contribution)
 - [License](#license)
+
+## Data Overview
+
+This section gives a detailed explanation of the data that the script fetches from the Sleeper fantasy football service:
+
+### League Details
+- **Configuration**: League type, scoring settings, etc.
+- **Teams**: Team names, owners, logos, etc.
+
+### User Profiles
+- **Usernames**: Unique user identifiers.
+- **Display Names**: Publicly visible names.
+- **Avatars**: Profile pictures or icons.
+
+### Matchups
+- **Weekly Matchups**: Information about weekly games.
+- **Win/Loss Records**: Team standings and rankings.
+- **Scores**: Points scored in individual matchups.
+
+### Player Scores
+- **Points**: Actual points scored.
+- **Projections**: Expected points based on analysis.
+
+### Additional Data
+- **Rosters**: Players in each team.
+- **Transactions**: Trades, drops, adds, etc.
+- **Waivers**: Waiver wire activities and claims.
 
 ## Installation
 
@@ -73,8 +108,8 @@ By contributing, you agree to adhere to the project's code of conduct and licens
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE.md](LICENSE) file for details.
 
 ---
 
-For any questions or concerns, please feel free to [contact the author](mailto:your-email@example.com).
+For any questions or concerns, please feel free to open a issue.
