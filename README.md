@@ -10,9 +10,9 @@ This script is designed to fetch and save Sleeper fantasy football data, providi
 - **Additional Data**: Rosters, transactions, waivers, etc.
 
 ## Table of Contents
+- [Data Overview](#data-overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Data Overview](#data-overview)
 - [Contribution](#contribution)
 - [License](#license)
 
